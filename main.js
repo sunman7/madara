@@ -317,7 +317,6 @@ const player = {
         demo.innerHTML = string.substr(0, player.n);
         demo2.innerHTML = player.text;
         demo2.scrollTop = demo2.scrollHeight;
-
     },
     bindEvents: () => {
         for (let key in player.events) {
