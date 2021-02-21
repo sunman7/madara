@@ -2,7 +2,7 @@ const string = `
  .cat {
   width: 400px;
   height: 340px;
-  margin: 100px auto;
+  margin: 20px auto;
   position: relative;
 }
 /* 制作头部*/
